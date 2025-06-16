@@ -1,0 +1,149 @@
+@charset "utf-8";
+
+:root{
+  --brand-color:rgb(0, 200, 255);
+}
+
+
+section{
+  /* background: pink; */
+  max-width: 600px;
+  margin: 0 auto;
+  width: calc(100%-16px- 16px);
+}
+h1{
+  margin: 0;
+  color:var(--brand-color);
+border-bottom: 2px solid var(--brand-color);
+  /* background: skyblue;
+  color: rgb(0, 0, 225); */
+  /* width: 500px; */
+ 
+}
+p{
+
+/* background-color: orange; */
+/* width: 50%; */
+width: 10rem;
+}
+/* ul{
+  margin:0;
+  padding: 0;
+  list-style: none;
+}
+
+li{
+  background:lightgray ;
+  padding: 8px;
+  border-radius: 8px;
+  margin-bottom :8px;
+  width: 320px;
+} */
+/* table{
+  border-collapse: collapse;
+  width: 400px;
+}
+
+th{
+  border: 1px solid black;
+  padding: 8px;
+  background: lightgray;
+}
+
+td{
+  border: 1px solid black;
+   padding: 8px;
+} */
+
+
+/* a{
+  display: inline-block;
+  width: 160px;
+  height: 32px;
+  border: 1px solid black;
+  border-radius: 8px;
+  text-align: center;
+  line-height: 32px;
+  text-decoration: none;
+  color:inherit;
+} */
+
+
+/* body{
+margin: 0;
+
+}
+header{
+  height: 160px;
+  background-color: pink;
+  background-image: url(logo.png);
+  background-size: contain;
+}
+
+h1{
+  margin: 0;
+  font-size: 34px;
+  text-align: center;
+  line-height: 160px
+} */
+
+
+/* p{
+  background-color: pink;
+}
+
+img{
+  width:80px;
+  height: 80px;
+  float: right; */
+ /* border-radius: 50%; */
+ /* object-fit: cover;
+ vertical-align: bottom; */
+ /* opacity: 0.3;; */
+/* } */
+
+
+/* p {
+  background-color: pink;
+  margin: 0;
+} */
+/* .container{
+  width: 400px;
+  margin: 32px auto 0;
+  border: 8px solid blue;
+  position: relative;
+} */
+/* .box-1{
+  width: 100px;
+  height: 100px;
+  background-color:pink;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 3;
+}
+
+.box-2{
+  width: 100px;
+  height: 100px;
+  background-color: skyblue;
+  /* position: relative; */
+  /* position: absolute; */
+  /* position: fixed; */
+  /* top: 16px;
+  right: 16px; */
+  /* position: absolute;
+  top: 20px;
+  left: 20px;
+  z-index: 2;
+ 
+}
+.box-3{
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  z-index: 1;
+}  */
